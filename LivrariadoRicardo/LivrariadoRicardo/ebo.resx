@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Reconhecida mundialmente como um dos livros (e filmes) de terror mais assustadores, esta 
+literatura – sem dúvidas! – marcou uma geração de leitores (e espectadores) até hoje! Isso
+ porque falar de possessão é um enigma ainda inexplicável pela ciência e religião – mas não 
+para William Peter Blatty. Em uma escrita impecável, o autor, a obra descreve uma 
+metáfora moderna para o combate entre a fé e do profano no formato de um dos romances 
+mais macabros que você já viu em toda a sua vida.</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Josh Malerman, "Bird Box", é um suspense psicológico aterrorizante que irá assombrá-lo por muito tempo depois da leitura. 
+A maioria das pessoas rejeitou os relatórios das notícias. Mas eles se tornaram muito frequentes; eles se tornaram muito reais. 
+E logo estava acontecendo com pessoas que conhecíamos. Então a internet morreu.As televisões e rádios ficaram em silêncio. 
+Os telefones pararam de tocar E nós não poderíamos mais olhar para fora.</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Definido como suspanse psicológico, a história narra as férias de um grupo de amigos que 
+escolhem o litoral de Cancún para descansar. A trama começa quando eles decidem ajudar um turista alemão a procurar 
+seu irmão desaparecido. Supostamente, a vítima desapareceu enquanto visitava umas ruínas. O autor faz questão de
+ iniciar a obra de forma simples para que, assustadoramente, o decorrer das páginas se torne eletrizante. 
+</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>A história é narrada por Hazel Grace Lancaster, uma garota de 16 anos com câncer de tireóideque afetou seus pulmões. 
+Hazel é forçada por seus pais a participar de um grupo de apoio, onde ela se encontra e se apaixona por Augustus Waters, de 17 anos, 
+ex-jogador de basquete e amputado .Uma adaptação cinematográfica do romance dirigido por Josh Boone e estrelado por Shailene Woodley , 
+Ansel Elgort e Nat Wolff foi lançado em 06 de junho de 2014.</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>Esta obra narra a emocionante história de Jean Valjean — o homem que, por ter roubado um pão, é condenado a dezenove anos de prisão. 
+Um livro inquietantemente religioso e político. Um romance social marcado por uma vasta análise de 
+costumes da França e do mundo do século XIX.</value>
+  </data>
+</root>
